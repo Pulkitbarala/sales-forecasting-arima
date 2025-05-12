@@ -51,7 +51,7 @@ install.packages(c("readr", "dplyr", "ggplot2", "forecast", "rmarkdown"))
 
 ## Example Output
 
-![Example Output](path/to/your/image.png)
+![Example Output](https://github.com/Pulkitbarala/sales-forecasting-arima/blob/main/output/forecast_plot.png)
 
 ## License
 
